@@ -1,0 +1,17 @@
+{
+	"apiVersion": 2,
+	"name": "naviddev-gutenberg-blocks/meheraj",
+	"version": "0.1.0",
+	"title": "Woo-commerce Grid",
+	"category": "meheraj-gutenberg-blocks",
+	"icon": "grid-view",
+	"description": "This is a simple woo-commerce grid.",
+	"supports": {
+		"html": false,
+		"anchor": true
+	},
+	"textdomain": "meheraj-gutenberg-blocks",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css"
+}
